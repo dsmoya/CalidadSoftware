@@ -7,7 +7,7 @@ public class Main {
 		Scanner e = new Scanner(System.in); //inicializamos el scanner
         int euros = e.nextInt(); //pedimos al usuario la cantidad de dinero
         e.nextLine();
-		return erros;
+		return euros;
 	}
 	
 	public static int check500(int euros) {
