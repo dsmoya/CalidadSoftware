@@ -10,6 +10,7 @@ public class TestJUnit {
 	public void testPedirCifra1() {
 		System.out.println("---IGNORAR PRINTS---");
 		System.out.println("HOLAAAAA");
+		System.out.println("HOLAAAAA");
 		assertNotNull(Main.pedirCifra());
 	}
 	
