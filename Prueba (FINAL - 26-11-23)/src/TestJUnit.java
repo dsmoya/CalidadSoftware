@@ -9,6 +9,7 @@ public class TestJUnit {
 	@Test //assertNotNull - la cifra pedida no puede ser nula
 	public void testPedirCifra1() {
 		System.out.println("---IGNORAR PRINTS---");
+		System.out.println("HOLAAAAA");
 		assertNotNull(Main.pedirCifra());
 	}
 	
