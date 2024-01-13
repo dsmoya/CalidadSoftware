@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 
 public class TestJUnit {
 	int ejemplo = 333;
-	int[] arrayEsperado = {3,1,1};
+	int[] arrayEsperado = {6,7,2};
 	int[] arrayObtenido = {Main.check5(18),Main.check2(3), Main.check1(0)};
 	
 	@Test //assertNotNull - la cifra pedida no puede ser nula
