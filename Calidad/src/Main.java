@@ -1,6 +1,7 @@
 import java.util.Scanner; //importamos el scanner
 
-//proyecto cargado al git
+//proyecto cargado al Git
+//enlace a Jenkins exitoso
 
 public class Main {
 	
