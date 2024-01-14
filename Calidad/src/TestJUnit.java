@@ -34,7 +34,7 @@ public class TestJUnit {
 	
 	@Test //assertSame - dos checks darán 0 billetes con una misma cifra menor que ambos
 	public void test50() {
-		assertSame(Main.check50(19),Main.check20(19));
+		assertSame(Main.check50(56),Main.check20(19));
 	}
 	
 	@Test //assertNotSame - dos checks no pueden dar el mismo resultado sobre la misma cifra
