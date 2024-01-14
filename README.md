@@ -1,1 +1,1 @@
-Los dos proyectos son el mismo. "Prueba" se ha creado para solucionar errores que ocurrían con el proyecto "bueno", pero en la práctica ambos son igual de válidos.
+Los dos proyectos son el mismo código. "Calidad" se ha creado para solucionar errores que ocurrían con el otro, por ello aparece en algunas de las capturas en lugar de Practica4, pero en la práctica ambos son igual de válidos.
